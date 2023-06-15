@@ -7,7 +7,7 @@ PA1B1 = "(1-E)"
 PBo = "(1-P)"
 PB1 = "(P)"
 
-print(f"P(AonBo) = {(PAoBo)+(PBo)}")
+print(f"P(AonBo) = {(PAoBo)+(PBo)}") #it is multiplying but in case of strings it was not possible so, to write them together we added them.
 print(f"P(AonB1) = {(PAoB1)+(PB1)}")
 print(f"P(AonBo) = {(PA1B1)+(PB1)}")
 print(f"P(AonBo) = {(PA1Bo)+(PBo)}")
