@@ -1,0 +1,49 @@
+.header {
+    padding-top: 10px;
+    text-align: center;
+    font-family: fantasy;
+    text-transform: uppercase;
+}
+
+.main {
+    overflow: auto;
+}
+
+.container {
+    padding: 40px;
+}
+
+.left {
+    float: left;
+    width: 25%;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.s1 , .s2 {
+    width: 50%;
+    float: left;
+}
+
+.center {
+    float: left;
+    width: 50%;
+}
+
+.img1 , .img2 {
+    width: 50%;
+    float: left;
+}
+
+.footer {
+    text-align: center;
+    text-transform: uppercase;
+    font-family: cursive;
+}
+
+.right {
+    width: 25%;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+}

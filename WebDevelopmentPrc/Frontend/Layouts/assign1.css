@@ -1,0 +1,63 @@
+.wrapper {
+    overflow: auto;
+}
+
+.header {
+    border: 2px solid slateblue;
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: slateblue;
+    border: none;
+}
+
+.logo {
+    border: 2px solid red;
+    width: 10%;
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: red;
+    border: none;
+}
+
+.main {
+    margin-top: 10px;
+    padding: 10px;
+    border: 2px solid green;
+    box-sizing: border-box;
+    overflow: auto;
+    background-color: green;
+    border: none;
+}
+
+.left {
+    border: 2px solid yellow;
+    padding: 10px;
+    box-sizing: border-box;
+    width: 30%;
+    float: left;
+    margin-right: 10px;
+    height: 463px;
+    background-color: yellow;
+    border: none;
+}
+
+.right {
+    border: 2px solid salmon;
+    padding: 10px;
+    box-sizing: border-box;
+    width: 69.2%;
+    float: left;
+    height: 463px;
+    background-color: salmon;
+    border: none;
+}
+
+.footer {
+    margin-top: 10px;
+    border: 2px solid aqua;
+    text-align: center;
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: aqua;
+    border: none;
+}

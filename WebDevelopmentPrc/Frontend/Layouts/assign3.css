@@ -1,0 +1,110 @@
+.header {
+    border: 2px solid green;
+    padding: 10px;
+    box-sizing: border-box;
+    overflow: auto;
+    background-color: green;
+}
+
+.logo {
+    width: 10%;
+    border: 2px solid blue;
+    height: 4em;
+    float: left;
+    background-color: red;
+    border: none;
+}
+
+.navbar {
+    width: 88%;
+    border: 2px solid red;
+    height: 4em;
+    float: left;
+    margin-left: 1em;
+    background-color: blue;
+    border: none;
+}
+
+.content {
+    margin-top: 10px;
+    overflow: auto;
+    border: 2px solid salmon;
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: brown;
+    border: none;
+}
+
+.left-side {
+    width: 10%;
+    border: 2px solid yellow;
+    height: 610px;
+    float: left;
+    background-color: blueviolet;
+    border: none;
+}
+
+.right-side {
+    margin-left: 2px;
+    width: 89%;
+    border: 2px solid aqua;
+    height: 610px;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: white;
+    border: none;
+}
+
+.upper-right {
+    height: 50%;
+    width: 100%;
+    border: 2px solid saddlebrown;
+    box-sizing: border-box;
+    overflow: auto;
+}
+
+.lower-right {
+    height: 50%;
+    width: 100%;
+    border: 2px solid orangered;
+    padding: 5px;
+    box-sizing: border-box;
+    overflow: auto;
+}
+
+.big-box {
+    width: 28.2%;
+    height: 98%;
+    border: 2px solid seagreen;
+    float: left;
+    background-color: chocolate;
+    border: none;
+}
+
+.small-boxes {
+    overflow: auto;
+    width: 70.8%;
+    height: 98%;
+    border: 2px solid black;
+}
+
+.b1 {
+    width: 24.3%;
+    height: 46.3%;
+    border: 2px solid orange;
+    float: left;
+    margin: 3px;
+    background-color: cornflowerblue;
+    border: none;
+}
+
+.b {
+    width: 16.5%;
+    height: 48.5%;
+    border: 2px solid orange;
+    float: left;
+    margin: 1px;
+    background-color: cornflowerblue;
+    border: none;
+}
